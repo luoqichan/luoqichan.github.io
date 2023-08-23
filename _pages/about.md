@@ -11,8 +11,7 @@ profile:
   address: >
     <p>555 your office number</p>
     <p>123 your address street</p>
-    <p>Your City, State 12345</p> 
-
+    <p>Your City, State 12345</p>
 
 
 news: false  # includes a list of news items
@@ -23,7 +22,8 @@ social: true  # includes social icons at the bottom of the page
 
 Hello, I am a current graduate student at the [Language Technologies Institute (LTI)](https://lti.cs.cmu.edu) at [Carnegie Mellon University (CMU](https://www.cmu.edu) in the [Master of Science in Intelligent Information Systems (MIIS)](https://miis.cs.cmu.edu) program. 
 
-Prior to undertaking my graduate degree, I worked at [DSO National Laboratories](https://www.dso.org.sg) as a NLP Research Engineer. 
+Prior to undertaking my graduate degree, I worked at [DSO National Laboratories](https://www.dso.org.sg) as a NLP Research Engineer, on projects related to cognitive AI and NLP on social media texts: 
+
 
 
 <!--
