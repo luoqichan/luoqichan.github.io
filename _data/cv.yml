@@ -31,7 +31,7 @@
   contents:
     - title: AI Research Engineer (Natural Language Processing)
       institution: DSO National Laboratories
-      year: 2021 - present
+      year: 2021
       description:
         - [NLP/IR] Low-resource Entity Linking on colloquial, social media texts.
         - [NLP/Cognitive] Computational Audience Behaviour Modelling using texts and eye-tracking data on social media platforms.
