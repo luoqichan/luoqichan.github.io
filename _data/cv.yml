@@ -1,7 +1,7 @@
 - title: General Information
   type: map
   contents:
-    - name:  Name
+    - name: Name
       value: Luo Qi CHAN
     - name: Date of Birth
       value: 31st August 1998
@@ -26,12 +26,12 @@
         - Focus on modules related to Operations Analytics.
         - Graduated Summa Cum Laude (Highest Distinction).
 
-- title: Work 
+- title: Experience 
   type: time_table
   contents:
     - title: AI Research Engineer (Natural Language Processing)
       institution: DSO National Laboratories
-      year: 2021
+      year: 2021 - NOW
       description:
         - [NLP/IR] Low-resource Entity Linking on colloquial, social media texts.
         - [NLP/Cognitive] Computational Audience Behaviour Modelling using texts and eye-tracking data on social media platforms.
