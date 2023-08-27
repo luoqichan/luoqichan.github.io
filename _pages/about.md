@@ -18,7 +18,10 @@ social: true  # includes social icons at the bottom of the page
 
 Hello, I am a current graduate student at the [Language Technologies Institute (LTI)](https://lti.cs.cmu.edu) at [Carnegie Mellon University (CMU](https://www.cmu.edu) in the [Master of Science in Intelligent Information Systems (MIIS)](https://miis.cs.cmu.edu) program. 
 
-Prior to undertaking my graduate degree, I worked at [DSO National Laboratories](https://www.dso.org.sg) as a NLP Research Engineer, on projects related to cognitive AI and NLP on social media texts: 
+Prior to undertaking my graduate degree, I worked at [DSO National Laboratories (DSO)](https://www.dso.org.sg) as a NLP Research Engineer, on projects related to cognitive AI and NLP on social media texts. 
+
+## /origin story
+My NLP origin story started in Year 1 of my undergraduate degree when I participated in a research project  -- having barely learnt coding at that point in time, I was quickly fascinated by the way natural language was represented numerically. Although that project was merely a simple (but novel) text classification task, I was immediately interested to learn more. I went on to do an internship at DSO at the end of my first year, where I discovered that research was something I was excited about.  
 
 
 
