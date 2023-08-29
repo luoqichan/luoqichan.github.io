@@ -26,6 +26,32 @@
         - Focus on modules related to Operations Analytics.
         - Graduated Summa Cum Laude (Highest Distinction).
 
+- title: Experience
+  type: time_table
+  contents:
+    - title: AI Research Engineer (Natural Language Processing)
+      institution: DSO National Laboratories 
+      year: 2021 - 2023
+      description:
+        - Contributed actively to NLP projects.
+        - 
+        - title: Role was to provide technical expertise to ongoing research applications, including -- 
+          contents:
+            - Providing insight on feasibility of machine learning or deep learning algorithms on particular applications, according to clients' requirements.
+            - Conceptualising and implementing technical solutions.
+            - Delivering research reports to mentors (technical) and clients (application-focused).
+            - Keeping up-to-date with state-of-the-art research for effective ideation.
+            
+        - title: Low-resource Entity Linking on colloquial, social media text. 
+            -  
+            
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
+      description:
+        - Description 1.
+        - Description 2.
+
 
 - title: Other Interests
   type: list
