@@ -33,8 +33,11 @@
       institution: DSO National Laboratories 
       year: 2021 - 2023
       description:
-        - Contributed actively to NLP projects.
-        - 
+        - title: Contributed actively to NLP projects involving --
+          contents: 
+            - Low-resource Entity Linking on colloquial, social media text. 
+            - Cognitive AI applications, including computional Audience Behaviour Modelling using texts and behavioural data 
+        
         - title: Role was to provide technical expertise to ongoing research applications, including -- 
           contents:
             - Providing insight on feasibility of machine learning or deep learning algorithms on particular applications, according to clients' requirements.
@@ -42,18 +45,16 @@
             - Delivering research reports to mentors (technical) and clients (application-focused).
             - Keeping up-to-date with state-of-the-art research for effective ideation.
             
-        - title: Low-resource Entity Linking on colloquial, social media text. 
-            -  
             
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: AI Research Intern 
+      institution: DSO National Laboratories 
+      year: 2019
       description:
-        - Description 1.
-        - Description 2.
-
+        - Chemical structure elucidation using mass spectrometry via Tensor Belief Propagation on factor graphs. 
+        - Attained top-5 intern award in a cohort of ~160 interns. 
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Knitting & Crocheting - my go-to wind-down and de-stress activity.
+    - Dance (Ballet / Contemporary) - a fit alter-ego when I need to feel 
