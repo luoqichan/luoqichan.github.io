@@ -26,21 +26,6 @@
         - Focus on modules related to Operations Analytics.
         - Graduated Summa Cum Laude (Highest Distinction).
 
-- title: Experience 
-  type: time_table
-  contents:
-    - title: AI Research Engineer (Natural Language Processing)
-      institution: DSO National Laboratories
-      year: 2021 - NOW
-      description:
-        - [NLP/IR] Low-resource Entity Linking on colloquial, social media texts.
-        - [NLP/Cognitive] Computational Audience Behaviour Modelling using texts and eye-tracking data on social media platforms.
-        
-    - title: Visiting Researcher
-      institution: Carnegie Mellon University (CMU) 
-      year: 2023
-      description: In collaboration with DSO National Laboratories on low-resource EL. 
-
 
 - title: Other Interests
   type: list
