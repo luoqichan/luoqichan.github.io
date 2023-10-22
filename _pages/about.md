@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, I am a current graduate student at the [Language Technologies Institute (LTI)](https://lti.cs.cmu.edu) at [Carnegie Mellon University (CMU](https://www.cmu.edu) in the [Master of Science in Intelligent Information Systems (MIIS)](https://miis.cs.cmu.edu) program. 
+Hello, I am a current graduate student at the [Language Technologies Institute (LTI)](https://lti.cs.cmu.edu) at [Carnegie Mellon University (CMU](https://www.cmu.edu) in the [Master of Science in Intelligent Information Systems (MIIS)](https://miis.cs.cmu.edu) program. I work with Prof. [Xiong Chenyan](https://www.cs.cmu.edu/~cx/) on Efficient Dense Retrieval.  
 
 Prior to undertaking my graduate degree, I worked at [DSO National Laboratories (DSO)](https://www.dso.org.sg) as a NLP Research Engineer, on projects related to cognitive AI and NLP on social media texts. For more information, refer to my CV [here](https://luoqichan.github.io/cv/). 
 
